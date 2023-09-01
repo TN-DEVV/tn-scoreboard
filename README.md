@@ -1,0 +1,2 @@
+# tn-scoreboard
+qbcore scoreboard
